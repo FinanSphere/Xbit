@@ -1,7 +1,3 @@
-# Xbit
-Xbit is an all-in-one trading platform for indices, DEX, meme coins, stocks, and more. It offers advanced tools, AI analytics, crypto creation, a learning academy, demo accounts, and multi-payment support—built for traders of all levels
-# Xbit - Online Trading Platform
-
 Welcome to **Xbit**, your ultimate online trading platform! 🚀  
 
 ## 🌟 About Xbit  
